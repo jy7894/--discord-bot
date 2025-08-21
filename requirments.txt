@@ -1,0 +1,2 @@
+pip install py-cord
+pip install TwitchAPI
