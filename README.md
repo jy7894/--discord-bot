@@ -1,1 +1,1 @@
-to install requirements please run "pip install -r requirements.txt"
+to install requirements run "pip install -r requirements.txt"
