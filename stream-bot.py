@@ -12,7 +12,7 @@ import datetime
 
 bot_token = '' # < put your discord token here
 
-### vvv for twitch notis ###
+### vvv for twitch notis ### https://dev.twitch.tv/console (make a application and copy the client id / secret)
 twitch_client_id = '' # < twitch client id
 twich_client_secret = '' # < twitch client secret
 live_channel_id = None # < id of live channel goes here
@@ -316,5 +316,6 @@ async def test_role(ctx):
     ctx.respond("you have Owner role")
 
 ### runs bot ###
+
 
 bot.run(bot_token)
